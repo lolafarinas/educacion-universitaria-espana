@@ -1,0 +1,127 @@
+Carreras2,Carreras,Matriculados,Mujeres,Hombres,Diferencia,Matriculados_por,Mujer_por,Hombre_por,Ramas
+ Derecho,042101 - Derecho,113150,62969,50181,12788,9,56,44,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+ Psicología,031301 - Psicología,70227,51989,18238,33751,5,74,26,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Educación primaria,011301 - Educación primaria,73746,49284,24462,24822,6,67,33,EDUCACIÓN
+ Administración y empresa,041301 - Administración y empresa,105951,49228,56723,-7495,8,46,54,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+ Educación infantil,011201 - Educación infantil,44779,41607,3172,38435,3,93,7,EDUCACIÓN
+ Enfermería,091301 - Enfermería,45812,36790,9022,27768,4,80,20,SALUD Y SERVICIOS SOCIALES
+ Medicina,091201 - Medicina,43257,28700,14557,14143,3,66,34,SALUD Y SERVICIOS SOCIALES
+ Trabajo social,092301 - Trabajo social,21958,17920,4038,13882,2,82,18,SALUD Y SERVICIOS SOCIALES
+ Turismo,101501 - Turismo,25506,17071,8435,8636,2,67,33,SERVICIOS
+ Educación social,011901 - Educación social,20329,16355,3974,12381,2,80,20,EDUCACIÓN
+ Ciencias del trabajo,041302 - Ciencias del trabajo,23235,14303,8932,5371,2,62,38,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+ Lengua inglesa,023101 - Lengua inglesa,19057,13930,5127,8803,1,73,27,ARTES Y HUMANIDADES
+ Farmacia,091601 - Farmacia,18261,12722,5539,7183,1,70,30,SALUD Y SERVICIOS SOCIALES
+ Periodismo,032102 - Periodismo,19096,11735,7361,4374,1,61,39,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Arquitectura,073101 - Arquitectura,22709,11129,11580,-451,2,49,51,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Biología,051101 - Biología,17745,10983,6762,4221,1,62,38,CIENCIAS
+ Historia del arte,021302 - Historia del arte,15531,10650,4881,5769,1,69,31,ARTES Y HUMANIDADES
+ Pedagogía,011101 - Pedagogía,12493,10409,2084,8325,1,83,17,EDUCACIÓN
+ Fisioterapia,091501 - Fisioterapia,21297,10209,11088,-879,2,48,52,SALUD Y SERVICIOS SOCIALES
+ Lenguas y dialectos españoles,023201 - Lenguas y dialectos españoles,14164,9987,4177,5810,1,71,29,ARTES Y HUMANIDADES
+ Economía,031101 - Economía,25406,9766,15640,-5874,2,38,62,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Publicidad y relaciones públicas,041403 - Publicidad y relaciones públicas,13490,9536,3954,5582,1,71,29,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+" Audiovisual, imagen y multimedia","021101 - Audiovisual, imagen y multimedia",18358,9123,9235,-112,1,50,50,ARTES Y HUMANIDADES
+ Traducción e interpretación,023104 - Traducción e interpretación,10819,8700,2119,6581,1,80,20,ARTES Y HUMANIDADES
+ Química,053101 - Química,15520,8209,7311,898,1,53,47,CIENCIAS
+ Historia,022202 - Historia,22853,7387,15466,-8079,2,32,68,ARTES Y HUMANIDADES
+ Bellas artes,021301 - Bellas artes,10281,7060,3221,3839,1,69,31,ARTES Y HUMANIDADES
+ Veterinaria,084101 - Veterinaria,9588,6977,2611,4366,1,73,27,"AGRICULTURA, GANADERÍA, SILVICULTURA, PESCA Y VETERINARIA"
+ Criminología,031402 - Criminología,11339,6839,4500,2339,1,60,40,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Marketing,041401 - Marketing,11776,6131,5645,486,1,52,48,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+ Odontología,091101 - Odontología,9846,5907,3939,1968,1,60,40,SALUD Y SERVICIOS SOCIALES
+ Finanzas y contabilidad,041202 - Finanzas y contabilidad,11938,5898,6040,-142,1,49,51,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+ Ciencias ambientales,052101 - Ciencias ambientales,11232,5325,5907,-582,1,47,53,CIENCIAS
+ Ingeniería química industrial,071101 - Ingeniería química industrial,10910,5037,5873,-836,1,46,54,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Informática,061901 - Informática,39822,4742,35080,-30338,3,12,88,INFORMÁTICA
+ Ingeniería en tecnologías industriales,071502 - Ingeniería en tecnologías industriales,18870,4415,14455,-10040,1,23,77,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Nutrición humana y dietética,091503 - Nutrición humana y dietética,6027,4406,1621,2785,0,73,27,SALUD Y SERVICIOS SOCIALES
+ Política y gestión pública,031201 - Política y gestión pública,10161,4007,6154,-2147,1,39,61,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Lenguas modernas y aplicadas,023901 - Lenguas modernas y aplicadas,5056,3959,1097,2862,0,78,22,ARTES Y HUMANIDADES
+ Matemáticas,054101 - Matemáticas,10474,3927,6547,-2620,1,37,63,CIENCIAS
+ Diseño,021201 - Diseño,5006,3704,1302,2402,0,74,26,ARTES Y HUMANIDADES
+ Sociología,031406 - Sociología,6923,3678,3245,433,1,53,47,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Biotecnología,051202 - Biotecnología,6094,3659,2435,1224,0,60,40,CIENCIAS
+ Actividad física y del deporte,101401 - Actividad física y del deporte,19349,3471,15878,-12407,1,18,82,SERVICIOS
+ Ciencia y tecnología de los alimentos,072101 - Ciencia y tecnología de los alimentos,4961,3360,1601,1759,0,68,32,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Ingeniería civil,073202 - Ingeniería civil,11330,3260,8070,-4810,1,29,71,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Ingeniería en diseño industrial y desar,071501 - Ingeniería en diseño industrial y desarrollo del producto,6867,3244,3623,-379,1,47,53,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Ingeniería mecánica,071503 - Ingeniería mecánica,24790,3229,21561,-18332,2,13,87,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Logopedia,091502 - Logopedia,3517,3193,324,2869,0,91,9,SALUD Y SERVICIOS SOCIALES
+ Antropología social y cultural,031401 - Antropología social y cultural,5122,3160,1962,1198,0,62,38,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Terapia ocupacional,091505 - Terapia ocupacional,3811,3158,653,2505,0,83,17,SALUD Y SERVICIOS SOCIALES
+ Gestión y administración pública,041303 - Gestión y administración pública,5951,3145,2806,339,0,53,47,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+ Otras lenguas extranjeras,023103 - Otras lenguas extranjeras,4193,3087,1106,1981,0,74,26,ARTES Y HUMANIDADES
+ Ingeniería de telecomunicación,071403 - Ingeniería de telecomunicación,13472,2746,10726,-7980,1,20,80,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Arquitectura técnica,073201 - Arquitectura técnica,7099,2687,4412,-1725,1,38,62,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Filosofía,022301 - Filosofía,7397,2675,4722,-2047,1,36,64,ARTES Y HUMANIDADES
+ Óptica y optometría,091402 - Óptica y optometría,3636,2664,972,1692,0,73,27,SALUD Y SERVICIOS SOCIALES
+ Física,053301 - Física,10039,2552,7487,-4935,1,25,75,CIENCIAS
+ Bioquímica,051201 - Bioquímica,3946,2539,1407,1132,0,64,36,CIENCIAS
+ Ingeniería electrónica industrial y automática,071404 - Ingeniería electrónica industrial y automática,15160,2212,12948,-10736,1,15,85,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Humanidades,022901 - Humanidades,3452,2083,1369,714,0,60,40,ARTES Y HUMANIDADES
+ Relaciones internacionales,031202 - Relaciones internacionales,2949,2046,903,1143,0,69,31,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Comunicación,032101 - Comunicación,3149,1834,1315,519,0,58,42,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Podología,091504 - Podología,2547,1704,843,861,0,67,33,SALUD Y SERVICIOS SOCIALES
+ Ingeniería aeronáutica,071601 - Ingeniería aeronáutica,7056,1654,5402,-3748,1,23,77,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Ingeniería de organización industrial,071901 - Ingeniería de organización industrial,6262,1614,4648,-3034,0,26,74,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+" Ingeniería agrícola, agropecuaria y medio rural","081103 - Ingeniería agrícola, agropecuaria y medio rural",4579,1473,3106,-1633,0,32,68,"AGRICULTURA, GANADERÍA, SILVICULTURA, PESCA Y VETERINARIA"
+ Ingeniería biomédica y de la salud,091401 - Ingeniería biomédica y de la salud,2436,1440,996,444,0,59,41,SALUD Y SERVICIOS SOCIALES
+ Comercio,041601 - Comercio,2787,1397,1390,7,0,50,50,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+ Ingeniería agraria y agroalimentaria,081102 - Ingeniería agraria y agroalimentaria,3908,1379,2529,-1150,0,35,65,"AGRICULTURA, GANADERÍA, SILVICULTURA, PESCA Y VETERINARIA"
+ Información y documentación,032201 - Información y documentación,2001,1315,686,629,0,66,34,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Conservación y restauración,021401 - Conservación y restauración,1594,1231,363,868,0,77,23,ARTES Y HUMANIDADES
+ Ingeniería eléctrica,071302 - Ingeniería eléctrica,8399,1151,7248,-6097,1,14,86,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Biomedicina,051901 - Biomedicina,1282,973,309,664,0,76,24,CIENCIAS
+ Lenguas clásicas,023102 - Lenguas clásicas,1489,960,529,431,0,64,36,ARTES Y HUMANIDADES
+ Geografía y ordenación del territorio,053202 - Geografía y ordenación del territorio,3318,953,2365,-1412,0,29,71,CIENCIAS
+ Ingeniería de la energía,071301 - Ingeniería de la energía,3178,896,2282,-1386,0,28,72,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Geología,053203 - Geología,2176,893,1283,-390,0,41,59,CIENCIAS
+ Ciencias del mar,053201 - Ciencias del mar,1352,780,572,208,0,58,42,CIENCIAS
+ Música,021502 - Música,1620,764,856,-92,0,47,53,ARTES Y HUMANIDADES
+ Ingeniería en electrónica,071405 - Ingeniería en electrónica,4586,743,3843,-3100,0,16,84,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Ingeniería forestal y montes,082101 - Ingeniería forestal y montes,2780,701,2079,-1378,0,25,75,"AGRICULTURA, GANADERÍA, SILVICULTURA, PESCA Y VETERINARIA"
+ Ingeniería de sonido e imagen,071402 - Ingeniería de sonido e imagen,2643,677,1966,-1289,0,26,74,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Arqueología,022201 - Arqueología,1207,658,549,109,0,55,45,ARTES Y HUMANIDADES
+ Protocolo y eventos,041402 - Protocolo y eventos,729,648,81,567,0,89,11,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+ Ingeniería de minas y energía,072401 - Ingeniería de minas y energía,2416,638,1778,-1140,0,26,74,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Estadística,054201 - Estadística,1462,627,835,-208,0,43,57,CIENCIAS
+ Literatura,023202 - Literatura,875,617,258,359,0,71,29,ARTES Y HUMANIDADES
+ Ingeniería naval y oceánica,071603 - Ingeniería naval y oceánica,3142,589,2553,-1964,0,19,81,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Estudios y gestión de la cultura,031403 - Estudios y gestión de la cultura,788,532,256,276,0,68,32,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Ingeniería medioambiental,071201 - Ingeniería medioambiental,861,439,422,17,0,51,49,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Desarrollo de software y de aplicaciones,061301 - Desarrollo de software y de aplicaciones,3713,413,3300,-2887,0,11,89,INFORMÁTICA
+ Gastronomía y artes culinarias,101301 - Gastronomía y artes culinarias,840,363,477,-114,0,43,57,SERVICIOS
+ Ingeniería alimentaria,072103 - Ingeniería alimentaria,552,355,197,158,0,64,36,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Ingeniería de materiales,072201 - Ingeniería de materiales,1335,333,1002,-669,0,25,75,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Enología,072102 - Enología,604,302,302,0,0,50,50,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+" Ingeniería geomática, topografía y cartografía","073102 - Ingeniería geomática, topografía y cartografía",985,293,692,-399,0,30,70,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Artes escénicas,021501 - Artes escénicas,376,290,86,204,0,77,23,ARTES Y HUMANIDADES
+ Náutica y transporte marítimo,104101 - Náutica y transporte marítimo,1352,272,1080,-808,0,20,80,SERVICIOS
+ Servicios de transporte aéreo,104103 - Servicios de transporte aéreo,799,236,563,-327,0,30,70,SERVICIOS
+ Gestión hotelera,101302 - Gestión hotelera,314,205,109,96,0,65,35,SERVICIOS
+ Otras ciencias sociales y jurídicas,031988 - Otras ciencias sociales y jurídicas,470,204,266,-62,0,43,57,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Ingeniería de computadores,071401 - Ingeniería de computadores,1960,201,1759,-1558,0,10,90,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Geografía,031404 - Geografía,695,187,508,-321,0,27,73,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Ingeniería multimedia,061303 - Ingeniería multimedia,859,183,676,-493,0,21,79,INFORMÁTICA
+ Otras ingeniería,071988 - Otras ingeniería,958,136,822,-686,0,14,86,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Otras lenguas,023988 - Otras lenguas,149,127,22,105,0,85,15,ARTES Y HUMANIDADES
+ Nanotecnología,071902 - Nanotecnología,306,125,181,-56,0,41,59,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Desarrollo de videojuegos,061302 - Desarrollo de videojuegos,1019,121,898,-777,0,12,88,INFORMÁTICA
+ Protección de la propiedad y las personas,103201 - Protección de la propiedad y las personas,561,112,449,-337,0,20,80,SERVICIOS
+ Otras ciencias,053988 - Otras ciencias,167,106,61,45,0,63,37,CIENCIAS
+ Financiera y actuarial,041201 - Financiera y actuarial,177,82,95,-13,0,46,54,"NEGOCIOS, ADMINISTRACIÓN Y DERECHO"
+ Prevención y seguridad laboral,102201 - Prevención y seguridad laboral,315,64,251,-187,0,20,80,SERVICIOS
+ Ingeniería horticultura y jardinería,081201 - Ingeniería horticultura y jardinería,153,57,96,-39,0,37,63,"AGRICULTURA, GANADERÍA, SILVICULTURA, PESCA Y VETERINARIA"
+ Religión y teología,022101 - Religión y teología,296,55,241,-186,0,19,81,ARTES Y HUMANIDADES
+ Otras ciencias de la salud,091988 - Otras ciencias de la salud,92,52,40,12,0,57,43,SALUD Y SERVICIOS SOCIALES
+ Servicio de transporte terrestre,104102 - Servicio de transporte terrestre,182,50,132,-82,0,27,73,SERVICIOS
+ Igualdad de género,031405 - Igualdad de género,31,27,4,23,0,87,13,"CIENCIAS SOCIALES, PERIODISMO Y DOCUMENTACIÓN"
+ Ingeniería textil,072301 - Ingeniería textil,56,27,29,-2,0,48,52,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Enseñanza militar,103101 - Enseñanza militar,152,18,134,-116,0,12,88,SERVICIOS
+ Otras ciencias de la vida,051988 - Otras ciencias de la vida,37,17,20,-3,0,46,54,CIENCIAS
+ Urbanismo y paisajismo,073103 - Urbanismo y paisajismo,25,13,12,1,0,52,48,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Gestión deportiva,101402 - Gestión deportiva,66,7,59,-52,0,11,89,SERVICIOS
+ Ingeniería del automóvil,071602 - Ingeniería del automóvil,81,6,75,-69,0,7,93,"INGENIERÍA, INDUSTRIA Y CONSTRUCCIÓN"
+ Otros maestros,011401 - Otros maestros,14,5,9,-4,0,36,64,EDUCACIÓN
+ Otras informática,061988 - Otras informática,15,4,11,-7,0,27,73,INFORMÁTICA
